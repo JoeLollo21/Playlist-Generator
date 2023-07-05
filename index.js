@@ -20,7 +20,7 @@
 
     // Manages possible year queries
     const EARLIEST_YEAR = 1950;
-    const CURRENT_YEAR = 2018;
+    const CURRENT_YEAR = 2023;
 
     // List of possible genres
     const GENRES = ["Acid-Techno", "Acoustic-Blues", "Acid-House", "Acid-Jazz", 
